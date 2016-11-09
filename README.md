@@ -3,7 +3,7 @@
 This in introduction consists of a series of instructor led lectures and discussions and hands-on labs. Between each lab, the instructor will introduce you to the technology that you'll be using in the next lab. 
 
 ## Labs
-1. [Creating a Resource Group via the Azure Portal](https://github.com/stacyh3/Intro-To-Azure/blob/master/Lab%2001%20-%20Creating%20a%20Virtual%20Machine%20via%20the%20Azure%20Portal.md)
+1. [Creating a Resource Group via the Azure Portal](https://github.com/dstrebel/azworkshop/blob/master/resourcegroup.md)
 1. [Creating a Virtual Network via the Azure Portal](https://github.com/stacyh3/Intro-To-Azure/blob/master/Lab%2001%20-%20Creating%20a%20Virtual%20Machine%20via%20the%20Azure%20Portal.md)
 1. [Creating a Site-to-Site VPN via the Azure Portal](https://github.com/stacyh3/Intro-To-Azure/blob/master/Lab%2001%20-%20Creating%20a%20Virtual%20Machine%20via%20the%20Azure%20Portal.md)
 1. [Creating a Network Security Group via the Azure Portal](https://github.com/stacyh3/Intro-To-Azure/blob/master/Lab%2001%20-%20Creating%20a%20Virtual%20Machine%20via%20the%20Azure%20Portal.md)
