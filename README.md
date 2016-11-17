@@ -9,6 +9,6 @@ This in introduction consists of a series of instructor led lectures and discuss
 4. [Creating a Network Security Group via the Azure Portal](https://github.com/dstrebel/azworkshop/blob/master/nsg.md)
 5. [Creating a Storage Account via the Azure Portal](https://github.com/dstrebel/azworkshop/blob/master/storage.md)
 6. [Creating a Virtual Machine via Azure Portal](https://github.com/dstrebel/azworkshop/blob/master/vm_win.md)
-
+7. [Creating a Creating DevTest Labs Environment](https://github.com/dstrebel/azworkshop/blob/master/devtestlabs.md)
 
 **NOTE:** This is the first version of this lab. We'll be working to fix some of the inconsistent formating, etc.
